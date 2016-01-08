@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\tile1.png</Source>
+      <Name>Images\tile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile1.xnb</Output>
+      <Time>2015-10-15T14:59:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tile2.png</Source>
+      <Name>Images\tile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile2.xnb</Output>
+      <Time>2015-10-15T14:59:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tile3.png</Source>
+      <Name>Images\tile3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile3.xnb</Output>
+      <Time>2015-10-15T14:59:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tile5.png</Source>
+      <Name>Images\tile5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile5.xnb</Output>
+      <Time>2015-10-15T14:59:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tile0.png</Source>
+      <Name>Images\tile0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile0.xnb</Output>
+      <Time>2015-10-15T14:59:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tile6.png</Source>
+      <Name>Images\tile6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile6.xnb</Output>
+      <Time>2015-10-15T15:32:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\collisionSkin.png</Source>
+      <Name>Images\collisionSkin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\collisionSkin.xnb</Output>
+      <Time>2015-10-16T11:16:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\mine.png</Source>
+      <Name>Images\mine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\mine.xnb</Output>
+      <Time>2015-10-16T11:45:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bezel.png</Source>
+      <Name>Images\Bezel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\Bezel.xnb</Output>
+      <Time>2015-10-16T11:46:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\greenFiller.png</Source>
+      <Name>Images\greenFiller</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\greenFiller.xnb</Output>
+      <Time>2015-10-16T11:46:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\redFiller.png</Source>
+      <Name>Images\redFiller</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\redFiller.xnb</Output>
+      <Time>2015-10-16T11:46:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\yellowFiller.png</Source>
+      <Name>Images\yellowFiller</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\yellowFiller.xnb</Output>
+      <Time>2015-10-16T11:46:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\smily.png</Source>
+      <Name>Images\smily</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\smily.xnb</Output>
+      <Time>2015-10-22T15:08:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PerfectStrawberry.jpg</Source>
+      <Name>Images\PerfectStrawberry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\PerfectStrawberry.xnb</Output>
+      <Time>2015-10-22T15:52:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Strawberry.jpg</Source>
+      <Name>Images\Strawberry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\Strawberry.xnb</Output>
+      <Time>2015-10-22T16:05:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\sword.jpg</Source>
+      <Name>Images\sword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\sword.xnb</Output>
+      <Time>2015-10-22T16:16:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\jerry.png</Source>
+      <Name>Images\jerry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\jerry.xnb</Output>
+      <Time>2015-10-23T11:25:25.8629715-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\touch.png</Source>
+      <Name>Images\touch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\touch.xnb</Output>
+      <Time>2015-10-23T11:28:58.7689715-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\gifts.png</Source>
+      <Name>Images\gifts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\gifts.xnb</Output>
+      <Time>2015-10-23T11:45:08.1271237-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Danger.png</Source>
+      <Name>Images\Danger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\Danger.xnb</Output>
+      <Time>2015-10-23T11:45:10.7173827-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tile7.png</Source>
+      <Name>Images\tile7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile7.xnb</Output>
+      <Time>2015-11-03T16:01:16.3143261-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tile8.png</Source>
+      <Name>Images\tile8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile8.xnb</Output>
+      <Time>2015-11-03T16:01:16.3713318-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tile9.png</Source>
+      <Name>Images\tile9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile9.xnb</Output>
+      <Time>2015-11-03T16:08:28.8995803-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\spike.png</Source>
+      <Name>Images\spike</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\spike.xnb</Output>
+      <Time>2015-11-12T11:39:30.9271056-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tile4.png</Source>
+      <Name>Images\tile4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile4.xnb</Output>
+      <Time>2015-11-12T11:54:34.9594998-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts.spritefont</Source>
+      <Name>fonts</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\fonts.xnb</Output>
+      <Time>2015-10-30T12:07:23.7032844-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C505A56F-4AB8-453D-B000-B8778A5061D0}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProjectContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T20:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T20:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T20:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T20:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T20:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T20:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-11-09T22:18:59.772285-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

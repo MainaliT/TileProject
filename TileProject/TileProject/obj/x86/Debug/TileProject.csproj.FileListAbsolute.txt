@@ -1,0 +1,245 @@
+F:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\TileProject.exe
+F:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\TileProject.pdb
+F:\GameDesign\TileProject\TileProject\TileProject\obj\x86\Debug\TileProject.csprojResolveAssemblyReference.cache
+F:\GameDesign\TileProject\TileProject\TileProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\GameDesign\TileProject\TileProject\TileProject\obj\x86\Debug\TileProject.exe
+F:\GameDesign\TileProject\TileProject\TileProject\obj\x86\Debug\TileProject.pdb
+F:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile1.xnb
+F:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile2.xnb
+F:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile3.xnb
+F:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile4.xnb
+F:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile5.xnb
+F:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile0.xnb
+F:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile6.xnb
+F:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\collisionSkin.xnb
+F:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\mine.xnb
+F:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\Bezel.xnb
+F:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\greenFiller.xnb
+F:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\redFiller.xnb
+F:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\yellowFiller.xnb
+G:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile1.xnb
+G:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile2.xnb
+G:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile3.xnb
+G:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile4.xnb
+G:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile5.xnb
+G:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile0.xnb
+G:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile6.xnb
+G:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\collisionSkin.xnb
+G:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\mine.xnb
+G:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\Bezel.xnb
+G:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\greenFiller.xnb
+G:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\redFiller.xnb
+G:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\yellowFiller.xnb
+G:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\TileProject.exe
+G:\GameDesign\TileProject\TileProject\TileProject\bin\x86\Debug\TileProject.pdb
+G:\GameDesign\TileProject\TileProject\TileProject\obj\x86\Debug\TileProject.csprojResolveAssemblyReference.cache
+G:\GameDesign\TileProject\TileProject\TileProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\GameDesign\TileProject\TileProject\TileProject\obj\x86\Debug\TileProject.exe
+G:\GameDesign\TileProject\TileProject\TileProject\obj\x86\Debug\TileProject.pdb
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile1.xnb
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile2.xnb
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile3.xnb
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile4.xnb
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile5.xnb
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile0.xnb
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile6.xnb
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\collisionSkin.xnb
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\mine.xnb
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\Bezel.xnb
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\greenFiller.xnb
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\redFiller.xnb
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\yellowFiller.xnb
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\smily.xnb
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\TileProject.exe
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\TileProject.pdb
+F:\TileProject\TileProject\TileProject\obj\x86\Debug\TileProject.csprojResolveAssemblyReference.cache
+F:\TileProject\TileProject\TileProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\TileProject\TileProject\TileProject\obj\x86\Debug\TileProject.exe
+F:\TileProject\TileProject\TileProject\obj\x86\Debug\TileProject.pdb
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\TileProject.exe.manifest
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\TileProject.application
+F:\TileProject\TileProject\TileProject\obj\x86\Debug\TileProject.TrustInfo.xml
+F:\TileProject\TileProject\TileProject\obj\x86\Debug\TileProject.exe.manifest
+F:\TileProject\TileProject\TileProject\obj\x86\Debug\TileProject.application
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\PerfectStrawberry.xnb
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\Strawberry.xnb
+F:\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\sword.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile1.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile2.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile3.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile4.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile5.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile0.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\tile6.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\collisionSkin.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\mine.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\Bezel.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\greenFiller.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\redFiller.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\yellowFiller.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\smily.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\PerfectStrawberry.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\Strawberry.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\sword.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\jerry.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\TileProject.exe.manifest
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\TileProject.application
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\TileProject.exe
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\TileProject.pdb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\obj\x86\Debug\TileProject.csprojResolveAssemblyReference.cache
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\obj\x86\Debug\TileProject.TrustInfo.xml
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\obj\x86\Debug\TileProject.exe.manifest
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\obj\x86\Debug\TileProject.application
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\obj\x86\Debug\TileProject.exe
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\obj\x86\Debug\TileProject.pdb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\touch.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\gifts.xnb
+\\student\students\Computer\TNM9\Downloads\TileProject\TileProject\TileProject\bin\x86\Debug\Content\Images\Danger.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile1.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile2.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile3.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile4.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile5.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile0.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile6.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\collisionSkin.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\mine.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\Bezel.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\greenFiller.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\redFiller.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\yellowFiller.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\smily.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\PerfectStrawberry.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\Strawberry.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\sword.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\jerry.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\touch.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\gifts.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\Danger.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\TileProject.exe.manifest
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\TileProject.application
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\TileProject.exe
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\TileProject.pdb
+F:\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.csprojResolveAssemblyReference.cache
+F:\TileProjectxx\TileProject\TileProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.TrustInfo.xml
+F:\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.exe.manifest
+F:\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.application
+F:\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.exe
+F:\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.pdb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\fonts.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile7.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile8.xnb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile9.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile1.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile2.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile3.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile4.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile5.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile0.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile6.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\collisionSkin.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\mine.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\Bezel.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\greenFiller.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\redFiller.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\yellowFiller.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\smily.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\PerfectStrawberry.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\Strawberry.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\sword.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\jerry.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\touch.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\gifts.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\Danger.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile7.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile8.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile9.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\fonts.xnb
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\TileProject.exe.manifest
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\TileProject.application
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\TileProject.exe
+D:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\TileProject.pdb
+D:\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.csprojResolveAssemblyReference.cache
+D:\TileProjectxx\TileProject\TileProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.TrustInfo.xml
+D:\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.exe.manifest
+D:\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.application
+D:\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.exe
+D:\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.pdb
+F:\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\spike.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile1.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile2.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile3.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile5.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile0.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile6.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\collisionSkin.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\mine.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\Bezel.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\greenFiller.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\redFiller.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\yellowFiller.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\smily.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\PerfectStrawberry.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\Strawberry.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\sword.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\jerry.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\touch.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\gifts.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\Danger.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile7.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile8.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile9.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\spike.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile4.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\fonts.xnb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\TileProject.exe.manifest
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\TileProject.application
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\TileProject.exe
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\TileProject.pdb
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.csprojResolveAssemblyReference.cache
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.TrustInfo.xml
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.exe.manifest
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.application
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.exe
+F:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.pdb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile1.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile2.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile3.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile5.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile0.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile6.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\collisionSkin.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\mine.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\Bezel.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\greenFiller.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\redFiller.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\yellowFiller.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\smily.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\PerfectStrawberry.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\Strawberry.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\sword.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\jerry.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\touch.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\gifts.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\Danger.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile7.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile8.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile9.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\spike.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\Images\tile4.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\Content\fonts.xnb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\TileProject.exe.manifest
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\TileProject.application
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\TileProject.exe
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\bin\x86\Debug\TileProject.pdb
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.csprojResolveAssemblyReference.cache
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.TrustInfo.xml
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.exe.manifest
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.application
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.exe
+D:\Fifth Semester\GAME DEVELOPMENT 1\TileProjectxx\TileProject\TileProject\obj\x86\Debug\TileProject.pdb
